@@ -1,0 +1,6 @@
+Cynthia Ofori (ID: 11001100): Score = 85, Grade = A
+Aka Ebenezer (ID: 11110000): Score = 38, Grade = F
+Kwaku Manu (ID: 10101010): Score = 92, Grade = A
+Lil Win (ID: 10001111): Score = 18, Grade = F
+Nana Poku (ID: 11000110): Score = 65, Grade = C
+Kofi Amponsah (ID: 11100011): Score = 30, Grade = F

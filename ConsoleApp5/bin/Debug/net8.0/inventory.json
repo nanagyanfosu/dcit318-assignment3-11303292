@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "iPhone 15 Pro Max",
+    "Quantity": 40,
+    "DateAdded": "2025-08-14T23:59:09.6582192+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "iPad Mini",
+    "Quantity": 30,
+    "DateAdded": "2025-08-14T23:59:09.66668+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Macbook Pro 2024",
+    "Quantity": 10,
+    "DateAdded": "2025-08-14T23:59:09.6666847+00:00"
+  },
+  {
+    "Id": 4,
+    "Name": "Honda Accord",
+    "Quantity": 5,
+    "DateAdded": "2025-08-14T23:59:09.6666849+00:00"
+  }
+]
